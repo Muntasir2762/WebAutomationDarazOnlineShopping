@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-03T22:44:36 BDT" name="Default suite" finished-at="2021-12-03T22:46:00 BDT" duration-ms="83925">
+  <suite started-at="2021-12-04T23:12:39 BDT" name="Default suite" finished-at="2021-12-04T23:13:40 BDT" duration-ms="61111">
     <groups>
     </groups>
-    <test started-at="2021-12-03T22:44:36 BDT" name="Default test" finished-at="2021-12-03T22:46:00 BDT" duration-ms="83925">
+    <test started-at="2021-12-04T23:12:39 BDT" name="Default test" finished-at="2021-12-04T23:13:40 BDT" duration-ms="61111">
       <class name="TestCases.TC0001">
-        <test-method is-config="true" signature="setDriver()[pri:0, instance:TestCases.TC0001@31fa1761]" started-at="2021-12-03T22:44:32 BDT" name="setDriver" finished-at="2021-12-03T22:44:36 BDT" duration-ms="3981" status="PASS">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:TestCases.TC0001@31fa1761]" started-at="2021-12-04T23:12:34 BDT" name="setDriver" finished-at="2021-12-04T23:12:39 BDT" duration-ms="5402" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setDriver -->
-        <test-method signature="LocateElement()[pri:0, instance:TestCases.TC0001@31fa1761]" started-at="2021-12-03T22:44:36 BDT" name="LocateElement" finished-at="2021-12-03T22:46:00 BDT" duration-ms="83865" status="PASS">
+        <test-method signature="LocateElement()[pri:0, instance:TestCases.TC0001@31fa1761]" started-at="2021-12-04T23:12:39 BDT" name="LocateElement" finished-at="2021-12-04T23:13:40 BDT" duration-ms="61033" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LocateElement -->
-        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.TC0001@31fa1761]" started-at="2021-12-03T22:46:00 BDT" name="close" finished-at="2021-12-03T22:46:01 BDT" duration-ms="734" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCases.TC0001@31fa1761]" started-at="2021-12-04T23:13:40 BDT" name="close" finished-at="2021-12-04T23:13:41 BDT" duration-ms="485" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
